@@ -1,0 +1,15 @@
+D:\Ranis\GB\GB_Learn\Seminar5\Z33\obj\Debug\net6.0\Z33.csproj.AssemblyReference.cache
+D:\Ranis\GB\GB_Learn\Seminar5\Z33\obj\Debug\net6.0\Z33.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ranis\GB\GB_Learn\Seminar5\Z33\obj\Debug\net6.0\Z33.AssemblyInfoInputs.cache
+D:\Ranis\GB\GB_Learn\Seminar5\Z33\obj\Debug\net6.0\Z33.AssemblyInfo.cs
+D:\Ranis\GB\GB_Learn\Seminar5\Z33\obj\Debug\net6.0\Z33.csproj.CoreCompileInputs.cache
+D:\Ranis\GB\GB_Learn\Seminar5\Z33\bin\Debug\net6.0\Z33.exe
+D:\Ranis\GB\GB_Learn\Seminar5\Z33\bin\Debug\net6.0\Z33.deps.json
+D:\Ranis\GB\GB_Learn\Seminar5\Z33\bin\Debug\net6.0\Z33.runtimeconfig.json
+D:\Ranis\GB\GB_Learn\Seminar5\Z33\bin\Debug\net6.0\Z33.dll
+D:\Ranis\GB\GB_Learn\Seminar5\Z33\bin\Debug\net6.0\ref\Z33.dll
+D:\Ranis\GB\GB_Learn\Seminar5\Z33\bin\Debug\net6.0\Z33.pdb
+D:\Ranis\GB\GB_Learn\Seminar5\Z33\obj\Debug\net6.0\Z33.dll
+D:\Ranis\GB\GB_Learn\Seminar5\Z33\obj\Debug\net6.0\ref\Z33.dll
+D:\Ranis\GB\GB_Learn\Seminar5\Z33\obj\Debug\net6.0\Z33.pdb
+D:\Ranis\GB\GB_Learn\Seminar5\Z33\obj\Debug\net6.0\Z33.genruntimeconfig.cache
